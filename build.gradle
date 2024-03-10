@@ -1,0 +1,21 @@
+plugins {
+    id "java"
+}
+
+group = "me.drred96"
+version = "1.0"
+
+jar {
+    manifest {
+        attributes("Main-Class": "me.drred96.pastegenerator.Main")
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // Too much Minecraft modding lmao
+    implementation "com.google.code.gson:gson:2.10.1"
+}
