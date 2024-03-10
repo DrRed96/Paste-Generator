@@ -4,14 +4,14 @@ Paste generator for Doxbin and similar sites, I honestly don't know what else to
 ## Installation
 
 ### Download
-- Download the latest jar file from [release](https://github.com/DrRed96/Paste-Generator/releases/tag/1.0)
+- Download the latest jar file from [releases](https://github.com/DrRed96/Paste-Generator/releases/tag/1.0)
 
 ### Compile from source
 - Clone this repository
 - Run `./gradlew build`
 
 ## Usage
-- Install Java (I'm sure you can figure this out)
+- Install Java (Requires version 17 or higher)
 - Run `java -jar pastegenerator-1.0.jar <config file>`
 
 ## Configuration
