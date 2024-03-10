@@ -4,7 +4,7 @@ Paste generator for Doxbin and similar sites, I honestly don't know what else to
 ## Installation
 
 ### Download
-- Download the latest jar file from the Releases
+- Download the latest jar file from [release](https://github.com/DrRed96/Paste-Generator/releases/tag/1.0)
 
 ### Compile from source
 - Clone this repository
