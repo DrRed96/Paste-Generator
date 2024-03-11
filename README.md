@@ -15,7 +15,7 @@ Paste generator for Doxbin and similar sites, I honestly don't know what else to
 - Run `java -jar pastegenerator-1.0.jar <config file>`
 
 ## Configuration
-- <a href="./CONFIG.md">Config Docs</a>
+- <a href="./CONFIG.md" target="_blank">Config Docs</a>
 
 ## Credits
 - The format used by this generator was made by [Network](https://doxbin.net/user/Network) all credit for it goes to him!
